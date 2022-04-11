@@ -1,4 +1,6 @@
 This is Challenge 3
 
+I made a change
+
 Person 1 change for Challenge 3
 
